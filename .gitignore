@@ -4,3 +4,5 @@ bin/
 target/  
 !**/src/main/**/out/  
 !**/src/test/**/out/  
+!**/src/main/**/build/  
+!**/src/test/**/build/  
